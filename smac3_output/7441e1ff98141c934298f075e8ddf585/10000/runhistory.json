@@ -1,0 +1,77 @@
+{
+  "stats": {
+    "submitted": 4,
+    "finished": 4,
+    "running": 0
+  },
+  "data": [
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 195292812,
+      "budget": null,
+      "cost": 12.19939149584782,
+      "time": 0.0,
+      "cpu_time": 0.0,
+      "status": 1,
+      "starttime": 1789844781.3280528,
+      "endtime": 1789844781.3295155,
+      "additional_info": {}
+    },
+    {
+      "config_id": 1,
+      "instance": null,
+      "seed": 1561370677,
+      "budget": null,
+      "cost": 12.19939149584782,
+      "time": 0.0,
+      "cpu_time": 0.0,
+      "status": 1,
+      "starttime": 1789844781.330401,
+      "endtime": 1789844781.330401,
+      "additional_info": {}
+    },
+    {
+      "config_id": 2,
+      "instance": null,
+      "seed": 195292812,
+      "budget": null,
+      "cost": 4.967472905754609,
+      "time": 0.0,
+      "cpu_time": 0.0,
+      "status": 1,
+      "starttime": 1789844782.2709734,
+      "endtime": 1789844782.2729774,
+      "additional_info": {}
+    },
+    {
+      "config_id": 2,
+      "instance": null,
+      "seed": 1561370677,
+      "budget": null,
+      "cost": 4.967472905754609,
+      "time": 0.0,
+      "cpu_time": 0.0,
+      "status": 1,
+      "starttime": 1789844782.2729774,
+      "endtime": 1789844782.2729774,
+      "additional_info": {}
+    }
+  ],
+  "configs": {
+    "1": {
+      "amplitude": 2.4936041114852,
+      "frequency": 42.5788413090631,
+      "pulse_width": 84.1579753905535
+    },
+    "2": {
+      "amplitude": 4.1057309906195,
+      "frequency": 7.41823498691,
+      "pulse_width": 131.6834723459196
+    }
+  },
+  "config_origins": {
+    "1": "Initial Design: Sobol",
+    "2": "Acquisition Function Maximizer: Local Search"
+  }
+}
