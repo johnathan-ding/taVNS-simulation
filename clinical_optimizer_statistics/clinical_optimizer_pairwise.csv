@@ -1,0 +1,13 @@
+Interpolation Model,Endpoint,Method A,Method B,N Paired Seed Blocks,Mean Paired Difference A - B (regret percentage points),Raw Two-Sided Sign-Flip P Value,Permutations,A Wins (lower regret),Ties,B Wins (lower regret),A Win Proportion,Tie Proportion,B Win Proportion,Holm Adjusted P Value
+Linear,Query 40 normalized regret (%),Bayesian Optimization,TPE Optimization,40,-4.8112526361483905,4.999750012499375e-05,20000,40,0,0,1.0,0.0,0.0,0.000599970001499925
+Linear,Query 40 normalized regret (%),Bayesian Optimization,SMAC Optimization,40,-10.611577180104753,4.999750012499375e-05,20000,40,0,0,1.0,0.0,0.0,0.000599970001499925
+Linear,Query 40 normalized regret (%),Bayesian Optimization,Random Search,40,-15.996587812407947,4.999750012499375e-05,20000,40,0,0,1.0,0.0,0.0,0.000599970001499925
+Linear,Query 40 normalized regret (%),TPE Optimization,SMAC Optimization,40,-5.800324543956362,0.0024998750062496873,20000,28,0,12,0.7,0.0,0.3,0.007499625018749062
+Linear,Query 40 normalized regret (%),TPE Optimization,Random Search,40,-11.185335176259557,4.999750012499375e-05,20000,38,0,2,0.95,0.0,0.05,0.000599970001499925
+Linear,Query 40 normalized regret (%),SMAC Optimization,Random Search,40,-5.385010632303194,0.007299635018249088,20000,31,0,9,0.775,0.0,0.225,0.014599270036498175
+PCHIP,Query 40 normalized regret (%),Bayesian Optimization,TPE Optimization,40,-3.3610493653977485,4.999750012499375e-05,20000,40,0,0,1.0,0.0,0.0,0.000599970001499925
+PCHIP,Query 40 normalized regret (%),Bayesian Optimization,SMAC Optimization,40,-9.538423326671861,4.999750012499375e-05,20000,40,0,0,1.0,0.0,0.0,0.000599970001499925
+PCHIP,Query 40 normalized regret (%),Bayesian Optimization,Random Search,40,-12.807687872571117,4.999750012499375e-05,20000,40,0,0,1.0,0.0,0.0,0.000599970001499925
+PCHIP,Query 40 normalized regret (%),TPE Optimization,SMAC Optimization,40,-6.177373961274112,0.00014999250037498125,20000,30,0,10,0.75,0.0,0.25,0.000599970001499925
+PCHIP,Query 40 normalized regret (%),TPE Optimization,Random Search,40,-9.44663850717337,4.999750012499375e-05,20000,35,0,5,0.875,0.0,0.125,0.000599970001499925
+PCHIP,Query 40 normalized regret (%),SMAC Optimization,Random Search,40,-3.269264545899257,0.11814409279536023,20000,25,0,15,0.625,0.0,0.375,0.11814409279536023

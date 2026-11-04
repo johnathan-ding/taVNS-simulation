@@ -1,0 +1,13 @@
+Interpolation Model,Endpoint,Method A,Method B,N Paired Seed Blocks,Mean Paired Difference A - B (regret percentage points),95% Paired Bootstrap CI Low,95% Paired Bootstrap CI High,Bootstrap Resamples,Bootstrap Seed
+Linear,Query 40 normalized regret (%),Bayesian Optimization,TPE Optimization,40,-4.8112526361483905,-6.450014162590519,-3.471322105573139,10000,20271103
+Linear,Query 40 normalized regret (%),Bayesian Optimization,SMAC Optimization,40,-10.611577180104753,-13.729039081389157,-7.810081689184113,10000,20271104
+Linear,Query 40 normalized regret (%),Bayesian Optimization,Random Search,40,-15.996587812407947,-18.383231673613718,-13.68006651879124,10000,20271105
+Linear,Query 40 normalized regret (%),TPE Optimization,SMAC Optimization,40,-5.800324543956362,-9.547937404226916,-2.1986982873781074,10000,20271106
+Linear,Query 40 normalized regret (%),TPE Optimization,Random Search,40,-11.185335176259557,-14.080442807376489,-8.378019251754973,10000,20271107
+Linear,Query 40 normalized regret (%),SMAC Optimization,Random Search,40,-5.385010632303194,-8.957365713137127,-1.6050182870470098,10000,20271108
+PCHIP,Query 40 normalized regret (%),Bayesian Optimization,TPE Optimization,40,-3.3610493653977485,-4.569770139174686,-2.365877836161635,10000,20272103
+PCHIP,Query 40 normalized regret (%),Bayesian Optimization,SMAC Optimization,40,-9.538423326671861,-13.15469995114255,-6.734444684176473,10000,20272104
+PCHIP,Query 40 normalized regret (%),Bayesian Optimization,Random Search,40,-12.807687872571117,-15.247395266700149,-10.535172610099306,10000,20272105
+PCHIP,Query 40 normalized regret (%),TPE Optimization,SMAC Optimization,40,-6.177373961274112,-9.213197802039728,-3.485458721966825,10000,20272106
+PCHIP,Query 40 normalized regret (%),TPE Optimization,Random Search,40,-9.44663850717337,-12.143197184294568,-6.84821097958468,10000,20272107
+PCHIP,Query 40 normalized regret (%),SMAC Optimization,Random Search,40,-3.269264545899257,-7.068271035515064,0.7619192585898938,10000,20272108
