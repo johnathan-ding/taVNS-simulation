@@ -1,0 +1,7 @@
+Interpolation Model,Endpoint,Method A,Method B,N Paired Seed Blocks,Mean Paired Difference A - B (regret percentage points),95% Paired Bootstrap CI Low,95% Paired Bootstrap CI High,Bootstrap Resamples,Bootstrap Seed
+Linear,Exploratory query 10 best-so-far normalized regret (%),Bayesian Optimization,TPE Optimization,40,-17.181283298670753,-24.3294556449708,-10.127907086130241,10000,20301103
+Linear,Exploratory query 10 best-so-far normalized regret (%),Bayesian Optimization,SMAC Optimization,40,-36.06062899586,-41.42712359144625,-30.451156050908455,10000,20301104
+Linear,Exploratory query 10 best-so-far normalized regret (%),Bayesian Optimization,Random Search,40,-34.23276599245155,-40.913316600103734,-27.236454253378053,10000,20301105
+PCHIP,Exploratory query 10 best-so-far normalized regret (%),Bayesian Optimization,TPE Optimization,40,-11.11986141980104,-18.685879292851862,-3.3529566718838795,10000,20302103
+PCHIP,Exploratory query 10 best-so-far normalized regret (%),Bayesian Optimization,SMAC Optimization,40,-30.240204752308784,-36.72550902697777,-23.602425925456075,10000,20302104
+PCHIP,Exploratory query 10 best-so-far normalized regret (%),Bayesian Optimization,Random Search,40,-30.55724823986236,-38.654969322992805,-22.17895742111974,10000,20302105
